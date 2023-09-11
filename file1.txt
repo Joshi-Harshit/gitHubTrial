@@ -1,3 +1,0 @@
-This is file 1
-Commit 2
-Feature Branch Commit 1
